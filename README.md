@@ -12,5 +12,5 @@ Steps for python implementation
 4) Perform standardization of features to remove impact of units and enable distnace computation
 5) Remove correlations and plot WCSS graph(elbow curve)
 6) Build clusters with K-Means and Hierarchial clustering
-7) Evaluate clsuters and build profiles to reveal patterns(cluster profiling)
+7) Evaluate clusters and build profiles to reveal patterns(cluster profiling)
 
