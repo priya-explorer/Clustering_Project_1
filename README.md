@@ -1,6 +1,7 @@
 # clustering_project_1
 
 Dataset: Credit Card Customer Dataset
+
 The dataset shows the cutomer's spending behaviour on various credit cards.
 
 Business Problem - The bank would like to know the distinct groups of customers existing in their bank. And, with the outcome of the analysis the bank would provide marketing offers to relevant customers.
