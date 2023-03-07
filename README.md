@@ -10,7 +10,8 @@ Steps for python implementation
 2) Outlier treatment and impute missing values
 3) Feature Engineering
 4) Perform standardization of features to remove impact of units and enable distance computation
-5) Remove correlations and plot WCSS graph(elbow curve)
-6) Build clusters with K-Means and Hierarchial clustering
-7) Evaluate clusters and build profiles to reveal patterns(cluster profiling)
+5) Remove correlations 
+6) plot WCSS graph(elbow curve)
+7) Build clusters with K-Means and Hierarchial clustering
+8) Evaluate clusters and build profiles to reveal patterns(cluster profiling)
 
